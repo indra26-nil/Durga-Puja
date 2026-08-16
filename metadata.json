@@ -1,0 +1,6 @@
+{
+  "name": "Pujo Asche",
+  "description": "Durga Puja countdown, curated festive playlists, authentic Dhak beats, and celebration experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
