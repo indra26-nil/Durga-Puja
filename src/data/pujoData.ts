@@ -5,7 +5,7 @@ import duggaMa from '../assets/audio/duggama.mp3';
 import duggaMaCover from '../assets/images/dugga_ma.jpg';
 
 export const TRACKS: Track[] = [
-  // DURGA PUJA TRACKS
+
   {
     id: 'dp-1',
     number: '01',

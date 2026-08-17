@@ -4,6 +4,8 @@ import durgaMurtiBg from '../assets/images/durga_murti_bg_1786903452527.jpg';
 import durgaMurtiGold from '../assets/images/durga_murti_gold_1786903469043.jpg';
 import durgaMurtiDawn from '../assets/images/durga_murti_dawn_1786903486583.jpg';
 
+
+
 interface BackgroundViewProps {
   theme: ThemeId;
   isDhakPlaying: boolean;
